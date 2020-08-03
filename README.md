@@ -1,16 +1,31 @@
-# expenses
+#Expenses
 
-A new Flutter project.
+Aplicativo de despesas pessoais.
+Onde é visualizado o gráfico e a lista de despesas 
+e quando não existem despesas adicionadas 
+aparece nenhuma despesa adicionada e uma figura.
 
-## Getting Started
+<br>
+<img height="650" src="https://user-images.githubusercontent.com/47065396/89194368-a428ff80-d57d-11ea-803e-b9c769c0abe5.png"/>
+<br>
 
-This project is a starting point for a Flutter application.
+Você tem a opção de adicionar suas despesas, 
+colocando o nome do conteúdo, 
+valor e a data, 
+lembrando que se não escolher a data é adicionado como a data atual.
 
-A few resources to get you started if this is your first Flutter project:
+<br>
+<img height="650" src="https://user-images.githubusercontent.com/47065396/89195620-64631780-d57f-11ea-8070-00babd0f3037.png"/>
+<br>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Quando adicionado às despesas, 
+você tem acesso a lista dos mesmo, 
+podendo excluir da lista.
+O gráfico mostra a porcentagem dos valores.
+Como funciona!? Ele vai pegar os valores total da semana 
+e fazer a porcentagem pra ver qual foi a gasto maior.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br>
+<img height="650" src="https://user-images.githubusercontent.com/47065396/89195907-d176ad00-d57f-11ea-91d7-57d724aa8a05.png"/>
+<br>
+
